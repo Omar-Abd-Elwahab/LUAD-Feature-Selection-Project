@@ -1,3 +1,6 @@
+Publication citation:
+Abdelwahab O, Awad N, Elserafy M, Badr E (2022) A feature selection-based framework to identify biomarkers for cancer diagnosis: A focus on lung adenocarcinoma. PLOS ONE 17(9): e0269126. https://doi.org/10.1371/journal.pone.0269126
+
 # LUAD-Feature-Selection-Project
 This project works on identifying biomarkers for Lung Adenocarcinoma (LUAD) patients, while building a classifier that can differentiate between LUAD patients from Normal patients. We propose a framework that applies an ensemble of feature selection techniques to identify genes highly correlated to LUAD. Utilizing LUAD RNA-seq data from the Cancer Genome Atlas (TCGA), we employed mutual information (MI) and recursive feature elimination (RFE) feature selection techniques along with support vector machine (SVM) classification model.
 
